@@ -1,3 +1,10 @@
+/*************************************************************
+*Code by     : Afna Ayshu Jaffin
+* Filename    : RegistrationForm.java
+* Description : A Simple Registration Form using Java AWT
+* Date        : 04.02.2022
+*Last edited  : 04.02.2022
+**************************************************************/
 package gui;
 import java.awt.*;
 //import java.awt.event.Itemlistener;
